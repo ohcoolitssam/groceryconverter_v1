@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DriverUntitPrice
+comment0.text=\r\n\ This\ class\ has\ the\ main(\ )\ method.\r\n\ It\ creates\ an\ instance\ of\ the\ UnitGroceryItem\r\n\ class\ and\ then\ presents\ the\ user\ with\ a\ menu\r\n\ to\ change\ the\ weight\ or\ the\ price.\ Each\r\n\ time\ a\ change\ is\ made\ the\ program\ prints\r\n\ the\ state\ of\ the\ UnitPrice\ object.\r\n\ \r\n\ @author\ L.\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
